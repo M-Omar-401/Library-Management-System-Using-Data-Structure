@@ -1,0 +1,205 @@
+Harry Potter and the Prisoner of Azkaban
+///
+J.K Rowling
+1999
+Fiction
+F4
+A brief History of Time
+///
+Stephen Hawking
+1988
+Science
+S5
+India Wins Freedom
+///
+Maulana Abul Kalam Azad
+1988
+Biography
+B3
+If I am Assasinated
+///
+Zulfiqar Ali Bhutto
+1979
+Political
+P1
+Forrest Gump
+///
+Winston Groom
+1986
+Fiction
+F4
+In the Line of Fire: A Memoir
+///
+Pervez Musharraf
+2006
+Biography
+B5
+Harry Potter and the Chamber of Secrets
+///
+J.K Rowling
+1998
+Fiction
+F4
+Jinnah of Pakistan
+///
+Stanley Wolpert
+1984
+Biography
+B3
+The Godfather
+///
+Mario Puzo
+1969
+Fiction
+F2
+Harry Potter and the Cursed Child
+///
+J.K Rowling
+2016
+Fiction
+F4
+The Mirage of Power
+///
+Dr. Mubashir Hassan
+2000
+Political
+P2
+Harry Potter and the Order of the Phoenix
+///
+J.K Rowling
+2003
+Fiction
+F4
+Game Changer
+///
+Shahid Afridi, Wajahat S. Khan
+2019
+Biography
+B4
+On the Electrodynamics of Moving Bodies
+///
+Albert Einstein
+1905
+Science
+S1
+Sahih Muslim
+///
+Imam Muslim ibn al-Hajjaj
+9th Century
+Islamic
+I1
+Thomas Calculus 13th Edition
+///
+George B. Thomas, Jr.
+2013
+Science
+S3
+The Firm
+///
+John Grisham
+1991
+Fiction
+F1
+Sahih Bukhari
+///
+Imam Muhammad al-Bukhari
+846
+Islamic
+I1
+Time Magazine Nov, 2020
+///
+TIME USA, LLC
+2020
+Magazines
+M2
+The Biography of Umar Ibn Al-khattaab (2 Vol. Set)
+///
+Dr. Ali Muhammad As-Sallaabee
+2010
+Islamic
+I2
+The Biography Of Abu Bakr As Siddeeq
+///
+Dr. Ali Muhammad As-Sallaabee
+2007
+Islamic
+I2
+Harry Potter and the Half-Blood Prince
+///
+J.K Rowling
+2005
+Fiction
+F4
+Thanda Gosht
+///
+Saadat Hassan Manto
+1950
+Fiction
+F4
+Mein Kampf (German)
+///
+Adolf Hitler
+1925
+Biography
+B3
+Mein Kampf (English)
+///
+Adolf Hitler
+1939
+Biography
+B3
+The Fault in Our Stars
+///
+John Green
+2012
+Fiction
+F5
+Friends Not Masters
+///
+Ayub Khan
+1967
+Biography
+B2
+Harry Potter and the Deathly Hallows
+///
+J.K Rowling
+2007
+Fiction
+F4
+Principia Mathematica
+///
+Alfred North Whitehead, Bertrand Russell
+1913
+Science
+S2
+Children of Dust: A Memoir of Pakistan
+///
+Ali Eteraz
+2009
+Political
+P3
+Linear Algebra and Its Applications 5th Edition
+///
+David C. Lay
+2014
+Science
+S1
+Harry Potter and the Philosopher's Stone
+///
+J.K Rowling
+1997
+Fiction
+F4
+Humsafar
+///
+Farhat Ishtiaq
+2008
+Fiction
+F3
+Howards End
+///
+E. M. Forster
+1910
+Fiction
+F3
+*****
